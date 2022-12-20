@@ -29,7 +29,7 @@
 
 ## Visão Geral
 
-<div align=center>
+<div align=center style={background: blue}>
 
 ![desktop](https://user-images.githubusercontent.com/79595032/208570513-71f808b2-8006-4326-9b39-b71a26c97677.jpg)
 
@@ -37,7 +37,7 @@
 
 </div>
 
-Desenvolvimento de página responsiva para qualquer tamanho de tela, feito partir de um prototipo UI do desafio.
+Desenvolvimento de página responsiva para qualquer tamanho de tela, feito a partir de um prototipo UI do desafio.
 
 ### Desenvolvido com
 
@@ -46,7 +46,7 @@ Desenvolvimento de página responsiva para qualquer tamanho de tela, feito parti
 
 ## Recursos
 
-Esta página foi criado a partir de um prótotipo UI presente em [DevChallenges](https://devchallenges.io/challenges) . O [desafio](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) era construir uma página para solucionar os requisições fornecidos.
+Esta página foi criado a partir de um prótotipo UI presente em [DevChallenges](https://devchallenges.io/). O [desafio](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) era construir uma página para solucionar os requisitos fornecidos.
 
 ## Contatos
 
