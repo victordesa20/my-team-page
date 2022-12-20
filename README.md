@@ -1,75 +1,52 @@
-<!-- Please update value in the {}  -->
-
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Página Equipe de Colaboradores</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+   Solução para um desafio de  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <!-- <a href="https://{your-demo-link.your-domain}">
       Demo
     </a>
-    <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
-      Solution
+    <span> | </span> -->
+    <a href="https://github.com/victordesa20/pagina-conheca-equipe">
+      Solução
     </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
-      Challenge
+      Desafio
     </a>
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
+## Índice
 
-## Table of Contents
+- [Visão geral](#visão-geral)
+  - [Desenvolvido com](#desenvolvido-com)
+- [Recursos](#recursos)
+- [Contatos](#contatos)
 
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+## Visão Geral
 
-<!-- OVERVIEW -->
+![desktop](https://user-images.githubusercontent.com/79595032/208570513-71f808b2-8006-4326-9b39-b71a26c97677.jpg)
 
-## Overview
+![page-my-team-by-victordesa](https://user-images.githubusercontent.com/79595032/208570490-53306b09-0c0c-4d1a-82ea-32e515f659bd.gif)
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+Desenvolvimento de página responsiva para qualquer tamanho de tela, feito partir de um prototipo UI do desafio.
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+### Desenvolvido com
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
 
-### Built With
+## Recursos
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+Esta página foi criado a partir de um prótotipo UI presente em [DevChallenges](https://devchallenges.io/challenges) . O [desafio](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) era construir uma página para solucionar os requisições fornecidos.
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+## Contatos
 
-## Features
+<!-- - Portfolio [your-website.com](https://{your-web-site-link}) -->
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
-
-
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-
-## Contact
-
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@victordesa20](https://github.com/victordesa20)
+- Linkedin [@victordesa20](https://www.linkedin.com/in/victordesa20/)
