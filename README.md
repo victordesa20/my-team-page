@@ -1,4 +1,4 @@
-<h1 align="center">Página Equipe de Colaboradores</h1>
+<h1 align="center">My Team Page</h1>
 
 <div align="center">
    Solução para um desafio de  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -6,15 +6,15 @@
 
 <div align="center">
   <h3>
-    <!-- <a href="https://{your-demo-link.your-domain}">
-      Demo
+    <a href="https://victordesa20.github.io/my-team-page/" target="_blank">
+      🚀 Demo
     </a>
-    <span> | </span> -->
-    <a href="https://github.com/victordesa20/pagina-conheca-equipe">
+    <span> | </span>
+    <a href="https://github.com/victordesa20/my-team-page">
       Solução
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
+    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U" target="_blank">
       Desafio
     </a>
   </h3>
@@ -37,7 +37,8 @@
 
 </div>
 
-Desenvolvimento de página responsiva para qualquer tamanho de tela, feito a partir de um prototipo UI do desafio.
+Desenvolvimento de página responsiva para qualquer tamanho de tela, feito a partir do prototipo UI de um desafio.
+Acesse a página 👉🏾 <a href="https://victordesa20.github.io/my-team-page/" target="_blank">My Team Page</a>
 
 ### Desenvolvido com
 
@@ -46,7 +47,7 @@ Desenvolvimento de página responsiva para qualquer tamanho de tela, feito a par
 
 ## Recursos
 
-Esta página foi criado a partir de um prótotipo UI presente em [DevChallenges](https://devchallenges.io/). O [desafio](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) era construir uma página para solucionar os requisitos fornecidos.
+Desenvolvi esta página a partir de um prótotipo UI presente em [DevChallenges](https://devchallenges.io/). O [desafio](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) era desenvolver em código uma página de acordo com o design fornecido e que ajustasse em diferentes tipos e tamanhos de tela.
 
 ## Contatos
 
