@@ -29,7 +29,7 @@
 
 ## Visão Geral
 
-<div align=center style={background: blue}>
+<div align=center>
 
 ![desktop](https://user-images.githubusercontent.com/79595032/208570513-71f808b2-8006-4326-9b39-b71a26c97677.jpg)
 
