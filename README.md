@@ -29,9 +29,12 @@
 
 ## Visão Geral
 
+<div align=center>
 ![desktop](https://user-images.githubusercontent.com/79595032/208570513-71f808b2-8006-4326-9b39-b71a26c97677.jpg)
 
 ![page-my-team-by-victordesa](https://user-images.githubusercontent.com/79595032/208570490-53306b09-0c0c-4d1a-82ea-32e515f659bd.gif)
+
+</div>
 
 Desenvolvimento de página responsiva para qualquer tamanho de tela, feito partir de um prototipo UI do desafio.
 
